@@ -1,0 +1,7 @@
+Client1,10.138.32.60,Enable,   1.0,   1.1
+Client2,192.168.20.52,Enable,   1.0,   1.1
+Client4,192.168.20.37,Enable,   1.0,   1.1
+Client5,192.168.20.78,Enable,   1.0,   1.1
+Client6,192.168.20.64,Enable,   1.0,   1.1
+Client7,192.168.1.13,Enable,  1.0,  1.1
+Client3,192.168.20.53,Enable, 1.0, 1.1

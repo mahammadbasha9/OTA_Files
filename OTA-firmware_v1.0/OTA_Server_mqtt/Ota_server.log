@@ -1,0 +1,15 @@
+INFO - Loaded Selected Clients: ['192.168.20.53']
+INFO - Connecting to broker...
+INFO - Subscribed to topic: metadata/version, File/Ack/#
+INFO - Received version from client 192.168.20.53: 1.0
+INFO - Current Selected Clients Publisher side: ['192.168.20.53']
+INFO - Client 192.168.20.53 is valid for processing.
+INFO - Device details saved to device_info.json
+INFO - Client 192.168.20.53: Version 1.0 is outdated. Preparing to send update...
+INFO - Sending the latest firmware file to Client 192.168.20.53...
+INFO - Sent a chunk to Client 192.168.20.53.
+INFO - Firmware file sent successfully to Client 192.168.20.53.
+INFO - Update sent successfully to Client 192.168.20.53. Waiting for acknowledgment...
+INFO - Current Selected Clients Publisher side: ['192.168.20.53']
+INFO - Client 192.168.20.53 is valid for processing.
+INFO - Acknowledgment Received: IP Address: 192.168.20.53, File Size: 21 bytes
